@@ -1,13 +1,15 @@
 ---
 layout: page
 title: Sobre el huizache
-image:
-  feature: abstract-5.jpg
+image: 
+  feature: "abstract-5.jpg"
   credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  creditlink: "http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/"
 comments: false
-modified: 2015-07-27
+modified: {}
+published: true
 ---
+
 
 Sobre la Acacia farnesiana: el **huizache** es el peor enemigo del ganadero depredador del matorral, el que tumba el monte para sembrar puro zacate. Necesitan meter maquinaria pesada para arrancarlo cada tantos años, porque crece, y espina, y regresa.
 
