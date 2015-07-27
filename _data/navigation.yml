@@ -1,7 +1,10 @@
 # Menu navigation links
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: polen
+  url: http://polen.huizache.org
 
-- title: External Link
+- title: Tema gráfico
   url: http://mademistakes.com
+
+- title: Config
+  url: /theme-setup/
