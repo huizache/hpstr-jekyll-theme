@@ -11,7 +11,7 @@ published: true
 ---
 
 
-Sobre la Acacia farnesiana: el **huizache** es el peor enemigo del ganadero depredador del matorral, el que tumba el monte para sembrar puro zacate. Necesitan meter maquinaria pesada para arrancarlo cada tantos años, porque crece, y espina, y regresa.
+**E**l **huizache** es el peor enemigo del ganadero depredador del matorral, el que tumba el monte para sembrar puro zacate. Necesitan meter maquinaria pesada para arrancarlo cada tantos años, porque crece, y espina, y regresa.
 
 _El huizache es una especie secundaria, dicen los biologos. El huizache es una especie primaria, dice el monte. Regresa, y nutre, y prepara el camino para unos, y da sombra para otros. El huizache es simbolo y signo de la resilencia, del poder de la naturaleza para restituir, de la vida que regresa._
 
