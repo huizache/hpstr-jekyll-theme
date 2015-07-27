@@ -53,5 +53,5 @@ Combustible [madera]. Leña y carbón. Tiene combustión lenta y alto contenido 
 
 **fuentes:**
 
-Acacia farnesiana (L.) Willd. (1806). Publicado en: Species Plantarum. Editio quarta 4(2): 1083-1084. 1806.
+Acacia farnesiana (L.) Willd. (1806). Publicado en: Species Plantarum. Editio quarta 4(2): 1083-1084. 1806.  
 Wikipedia https://es.wikipedia.org/wiki/Acacia_farnesiana
