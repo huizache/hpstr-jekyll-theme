@@ -9,7 +9,7 @@ comments: false
 modified: 2015-07-27
 ---
 
-<p class="intro"><span class="dropcap">S</span>obre la Acacia farnesiana: el **huizache** es el peor enemigo del ganadero depredador del matorral, el que tumba el monte para sembrar puro zacate. Necesitan meter maquinaria pesada para arrancarlo cada tantos años, porque crece, y espina, y regresa.
+Sobre la Acacia farnesiana: el **huizache** es el peor enemigo del ganadero depredador del matorral, el que tumba el monte para sembrar puro zacate. Necesitan meter maquinaria pesada para arrancarlo cada tantos años, porque crece, y espina, y regresa.
 
 _El huizache es una especie secundaria, dicen los biologos. El huizache es una especie primaria, dice el monte. Regresa, y nutre, y prepara el camino para unos, y da sombra para otros. El huizache es simbolo y signo de la resilencia, del poder de la naturaleza para restituir, de la vida que regresa._
 
@@ -50,6 +50,7 @@ Combustible [madera]. Leña y carbón. Tiene combustión lenta y alto contenido 
 
 
 fuentes:
+
 Acacia farnesiana (L.) Willd. (1806). Publicado en: Species Plantarum. Editio quarta 4(2): 1083-1084. 1806.
+
 Wikipedia https://es.wikipedia.org/wiki/Acacia_farnesiana
-</div>
