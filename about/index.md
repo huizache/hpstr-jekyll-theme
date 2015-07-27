@@ -51,8 +51,7 @@ Combustible [madera]. Leña y carbón. Tiene combustión lenta y alto contenido 
 **Otros usos**: La esencia extráida de las flores da un perfume conocido en Europa como cassie (huisache en México).En algunas partes de África se usa para sostener las tiendas, fabricar arados y trabajos de marquetería. Los bereberes del Atlas medio ponen ramas verdes repletas de hojas en los dormitorios para alejar a los malos espíritus. En Oriente Medio se colocan un trozo de madera de acacia en los pliegues de los turbantes para alejar malas influencias.En Angola se usa en la preparación de tintes negros para los tejidos.
 
 
-fuentes:
+**fuentes:**
 
 Acacia farnesiana (L.) Willd. (1806). Publicado en: Species Plantarum. Editio quarta 4(2): 1083-1084. 1806.
-
 Wikipedia https://es.wikipedia.org/wiki/Acacia_farnesiana
