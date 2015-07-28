@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Sobre el huizache
+title: sobre el huizache
 image: 
   feature: "huizache-natural.jpg"
   credit: 
   creditlink: 
 comments: false
-modified: {}
+modified: 2015-07-27
 published: true
 ---
 
