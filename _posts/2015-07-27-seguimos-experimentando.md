@@ -3,7 +3,7 @@ layout: post
 title: Seguimos experimentando con jekyll
 description: "Solo para dejar constancia de que hemos cambiado de tema varias veces"
 modified: 2015-07-27
-tags: [sample post]
+tags: [localhost]
 image:
   feature: abstract-3.jpg
   credit: dargadgetz
