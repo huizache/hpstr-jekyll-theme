@@ -1,8 +1,10 @@
 ---
 layout: post-index
-title: Tag Archive
+title: Archivo de etiquetas
 description: "An archive of posts sorted by tag."
 comments: false
+image:
+  background: acaciapolen.png
 ---
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
