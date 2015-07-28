@@ -2,9 +2,9 @@
 layout: page
 title: Sobre el huizache
 image: 
-  feature: "abstract-7.jpg"
-  credit: dargadgetz
-  creditlink: "http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/"
+  feature: "huizache-natural.jpg"
+  credit: 
+  creditlink: 
 comments: false
 modified: {}
 published: true

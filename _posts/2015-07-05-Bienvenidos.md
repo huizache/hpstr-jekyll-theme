@@ -4,7 +4,7 @@ title: Migrando
 published: true
 tags: [localhost]
 image:
-  feature: migrantes.jpg
+  feature: "migrantes.jpg"
 ---
 
 Desde que los sitios en drupal6 empezaron a necesitar actualizaciones de urgencia, sitios que tienen escasos cambios desde que fueron creados, me empezaron a dar algo de dolor de cabeza. Empece a buscar alternativas para convertirlos en sitios basados en HTML, y despreocuparme de las bases de datos, el php y las actualizaciones de seguridad.
