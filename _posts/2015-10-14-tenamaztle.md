@@ -6,7 +6,7 @@ modified: 2015-10-14
 description: CBD
 tags: [Resistencia, Temacapulín, presa el Zapotillo, Palmarejo, La guerra del Miztón, Francisco Tenamaztle, Acasico]
 image:
-  feature: temaca.jpg
+  feature: Tenamaztle.jpg
 excerpt: Francisco Tenamaztle fue el indígena caxcán del sur del estado de Zacatecas, señor y principal de Nochistlán, que luchó en contra de los abusos que cometían los españoles en contra de los indios.
 ---
 
