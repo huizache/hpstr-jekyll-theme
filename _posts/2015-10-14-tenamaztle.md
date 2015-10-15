@@ -3,7 +3,7 @@ layout: post
 title: ¿Quién fue Francisco Tenamaztle?
 published: true
 modified: 2015-10-14
-description: CBD
+description: Historia
 tags: [Resistencia, Temacapulín, presa el Zapotillo, Palmarejo, La guerra del Miztón, Francisco Tenamaztle, Acasico]
 image:
   feature: xochipilla.jpg
