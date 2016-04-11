@@ -7,9 +7,9 @@ description: Tres palabras para Rubén Espinosa, fotoperiodista asesinado en Ver
 tags: [Resistencia]
 image:
   feature: ruben.jpg
-excerpt: Vivos Muertos Amados
+excerpt: Muerto Vivo Amado
 ---
-Vivos Muertos Amados
+Muerto Vivo Amado
 
 Carnal te extraño
 
