@@ -13,4 +13,4 @@ Vivos Muertos Amados
 
 Carnal te extraño
 
-Extraño Conocer te
+Extraño tu mirada
