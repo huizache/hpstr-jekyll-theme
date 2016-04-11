@@ -14,8 +14,14 @@
 				{% if site.owner.email %}<li>
 					<a href="mailto:{{ site.owner.email }}"><i class="fa fa-fw fa-envelope"></i> Correo</a>
 				</li>{% endif %}
+				{% if site.owner.rss %}<li>
+					<a href="{{ site.owner.rss }}"><i class="fa fa-fw fa-twitter"></i> Rss del huizache</a>
+				</li>{% endif %}
 				{% if site.owner.polen %}<li>
 					<a href="{{ site.owner.polen }}"><i class="fa fa-fw fa-twitter"></i> Polen</a>
+				</li>{% endif %}
+				{% if site.owner.congelado %}<li>
+					<a href="{{ site.owner.congelado }}"><i class="fa fa-fw fa-twitter"></i> huizache congelado</a>
 				</li>{% endif %}
 				{% if site.owner.twitter %}<li>
 					<a href="http://twitter.com/{{ site.owner.twitter }}"><i class="fa fa-fw fa-twitter"></i> Twitter</a>
