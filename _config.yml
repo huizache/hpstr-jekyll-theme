@@ -14,6 +14,9 @@ owner:
   bio:            software libre, ecología social y otras vainas
   email:          
   # Social networking links used in footer. Update and remove as you like.
+  rss:            http://huizache.github.io/feed.xml
+  polen:          http://polen.huizache.org
+  congelado:      http://huizache.animalared.org
   twitter:        huizache
   facebook:       
   github:         
