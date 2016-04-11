@@ -13,4 +13,4 @@ Muerto Vivo Amado
 
 Carnal te extraño
 
-Extraño tu mirada
+Sonrisa tu mirada
