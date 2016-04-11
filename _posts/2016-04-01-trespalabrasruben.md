@@ -9,6 +9,8 @@ image:
   feature: ruben.jpg
 excerpt: Vivos Muertos Amados
 ---
-Vivos
-Muertos
-Amados
+Vivos Muertos Amados
+
+Carnal te extraño
+
+Extraño Conocer te
