@@ -6,7 +6,7 @@ modified: 2016-04-20
 description: lo más valioso que busca compartir con los veracruzanos es “una esperanza muy grande para encontrar a sus seres queridos
 tags: [Desaparecidos, Resistencia]
 image:
-  feature:desaparecidos-cordoba.jpg
+  feature: desaparecidos-cordoba.jpg
 excerpt: lo más valioso que busca compartir con los veracruzanos es “una esperanza muy grande para encontrar a sus seres queridos
 ---
 ... detrás de cada búsqueda hay un proceso interno muy doloroso en los familiares de los desaparecidos.
