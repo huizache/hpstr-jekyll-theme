@@ -6,7 +6,7 @@ modified: 2016-04-30
 description: Preguntas dialecticas para conocer un sistema
 tags: [Sistemas, Dialectica]
 image:
-  feature: biologydialectics.jpg
+  feature: biologydialectics.png
 excerpt: Para los que no tenemos una formación en sistemas o ecología, y para aquellos que si la tienen, unas preguntas planteadas por Richard Lewonton y Richard Levins, y la ultima inspirada por F.Varela
 ---
 
