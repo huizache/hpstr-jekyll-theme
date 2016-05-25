@@ -6,8 +6,8 @@ modified: 2016-05-25
 description: Preguntas dialécticas para conocer un sistema
 tags: [Sistemas, Dialéctica]
 image:
-  feature: ElNacimientoDelMundo.jpg
-excerpt: Tres definiciones de cognición según F. Varela
+  feature:  ElNacimientoDelMundo.jpeg
+excerpt: Tres definiciones de cognición según F. Varela, según una secuencia historica.
 ---
 De Cuerpo Presente
 Las ciencias cognitivas y la experiencia humana
@@ -18,6 +18,7 @@ Eleanor Rosch
 
 
 Símbolos: la hipótesis cognitivista: la experiencia y la mente computacional
+
 Pregunta numero 1: ¿Qué es la cognición?
 Respuesta numero 1: Procesamiento de la información como computación simbólica, es decir, manipulación de los símbolos basada en reglas.
 
@@ -29,6 +30,7 @@ Respuesta numero 3: Cuando los símbolos representan adecuadamente algún aspect
 
 
 Propiedades emergentes y conexionismo: los símbolos abandonan la escena
+
 Pregunta numero 1: ¿Qué es la cognición?
 Respuesta numero 1: La emergencia de estados globales en una red de componentes simples.
 
@@ -40,6 +42,7 @@ Respuesta numero 3: Cuando vemos que las propiedades emergentes (y estructuras r
 
 
 Vías evolutivas y deriva natural: Enfoque Enactivo
+
 Pregunta numero 1: ¿Qué es la cognición?
 Respuesta numero 1: Enacción. Historia del acoplamiento corporal que enactúa (hace emerger) un mundo.
 
