@@ -51,8 +51,3 @@ Respuesta numero 2: A través de una red que consiste en múltiples niveles de s
 
 Pregunta numero 3: ¿Como sé cuando un sistema cognitivo funciona adecuadamente?
 Respuesta numero 3: Cuando se transforma en parte de un mundo de significación preexistente (como hacen los vástagos de toda especie) o configura uno nuevo (como ocurre en la historia de la evolución).
-
-
-
-
-
